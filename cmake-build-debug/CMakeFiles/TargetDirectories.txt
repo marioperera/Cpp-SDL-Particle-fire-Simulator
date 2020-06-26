@@ -1,0 +1,3 @@
+C:/Users/mario_p/CLionProjects/SDL_App/cmake-build-debug/CMakeFiles/SDL_App.dir
+C:/Users/mario_p/CLionProjects/SDL_App/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mario_p/CLionProjects/SDL_App/cmake-build-debug/CMakeFiles/rebuild_cache.dir
